@@ -1,7 +1,8 @@
 import React, { useEffect } from "react";
 import { useNavigate } from "react-router-dom";
+import { authentication } from "../components/Firebase-config";
 
-export default function Profile({ title, data, handleLogout, setProfileData }) {
+export default function Profile({ title, data, handleLogout }) {
   let navigate = useNavigate();
 
   useEffect(() => {
@@ -10,7 +11,6 @@ export default function Profile({ title, data, handleLogout, setProfileData }) {
     if (authToken) {
       navigate("/profile");
     }
-
     if (!authToken) {
       navigate("/");
     }
