@@ -1,0 +1,55 @@
+@font-face {
+  font-family: font_heading;
+  src: url(font/heading.otf);
+}
+
+@font-face {
+  font-family: font_body;
+  src: url(font/body.otf);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: font_body;
+}
+
+.btn {
+  padding: 5px 20px;
+}
+
+.container--small {
+  width: 500px;
+  margin: 75px auto;
+  background-color: rgb(240, 240, 240);
+  border-radius: 5px;
+  padding: 0 !important;
+}
+
+.container--content {
+  padding: 20px 50px;
+}
+
+.container--small h1 {
+  margin-bottom: 30px;
+}
+
+.h1--title {
+  text-align: center;
+  color: rgb(56, 56, 56);
+  margin: 0 !important;
+  font-family: font_heading;
+}
+
+.heading--area {
+  padding: 25px 10px;
+  margin: 0 auto;
+  background-color: rgb(247, 247, 247);
+  margin-bottom: 20px;
+}
+
+.input-group-text {
+  font-family: "Calibri" !important;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+}
