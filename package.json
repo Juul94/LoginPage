@@ -1,7 +1,7 @@
 {
   "name": "login-page",
   "version": "0.1.0",
-  "homepage": "https://juul94.github.io/login-page/",
+  "homepage": "https://juul94.github.io/LoginPage/",
   "private": true,
   "dependencies": {
     "firebase": "^9.6.10",
