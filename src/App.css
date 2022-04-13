@@ -67,7 +67,6 @@
   padding: 10px;
 }
 
-/*** ON ERROR: FOCUS THE INPUT + HIGHTLIGHT RED SHADOW & BORDER ***/
 .errorStyle {
   color: #212529;
   background-color: #fff;
