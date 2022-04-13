@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LoginPage/static/css/main.f88dd9fa.css",
+    "main.js": "/LoginPage/static/js/main.9761daae.js",
+    "static/media/heading.otf": "/LoginPage/static/media/heading.0094146a0505298ed06a.otf",
+    "static/media/body.otf": "/LoginPage/static/media/body.cc7ab55d27205bd64001.otf",
+    "index.html": "/LoginPage/index.html",
+    "main.f88dd9fa.css.map": "/LoginPage/static/css/main.f88dd9fa.css.map",
+    "main.9761daae.js.map": "/LoginPage/static/js/main.9761daae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f88dd9fa.css",
+    "static/js/main.9761daae.js"
+  ]
+}
